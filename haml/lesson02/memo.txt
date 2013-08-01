@@ -1,0 +1,4 @@
+haml input output
+haml --help
+haml -f html5
+haml double quotation
